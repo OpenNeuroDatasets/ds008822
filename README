@@ -1,3 +1,48 @@
-# README for dataset2
+# Value_pRF Dataset2
 
-This is a default README.
+# # Overview
+This dataset contains functional MRI data from a behavioral economics experiment investigating how risky choices are made and how risk preferences change rapidly during decision-making. The data are organized according to the Brain Imaging Data Structure (BIDS) standard.
+
+# # Publication
+Rapid Changes in Risk Preferences Originate from Bayesian Inference on Parietal Magnitude Representations
+
+Authors: Raphael Le Bouc, Gilles de Hollander, Marcus Grueschow, Shira M. Lupkin, Vincent B. McGinty, Rafael Polania, Christian C. Ruff
+
+Preprint: https://www.biorxiv.org/content/10.64898/2026.03.28.715037v1.full
+
+# # Experiment Description
+Participants completed a value and confidence rating task while undergoing fMRI scanning.
+The experiment examined whether the brain employs a probabilistic population code to represent value and value uncertainty. The study focuses on the ventromedial prefrontal cortex representations of value and their influence on preference instability, choice stochasticity, and confidence .
+
+# # Dataset Contents
+Bold fMRI data: Functional brain imaging during the value rating task
+Anatomical data: High-resolution structural MRI for each participant
+Data Organization
+Data are organized according to BIDS standard with the following structure:
+
+```
+dataset_bids/
+├── sub-XX/
+│   ├── ses-01/
+│   │   ├── anat/
+│   │   │   └── anatomical images
+│   │   ├── func/
+│   │   │   ├── BOLD images
+│   │   └── fmap/
+│   │       └── fieldmap images
+│   └── ...other sessions...
+└── dataset_description.json
+```
+
+# # Usage
+For complete analysis code and scripts, see: https://github.com/ruffgroup/value_prf
+
+# # License
+This dataset is made available under the Public Domain Dedication and License v1.0. Full text: http://www.opendatacommons.org/licenses/pddl/1.0/
+
+We request that researchers using this dataset acknowledge the authors and cite the associated publication.
+
+# # Contact
+For questions regarding this dataset, please contact the corresponding authors or visit the project repository.
+
+Collapse
