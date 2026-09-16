@@ -1,7 +1,5 @@
 participant_id	session_id	data_id	age	handedness	sex
 sub-00001	ses-00001	SNS_TC_001	n/a	n/a	n/a
-sub-00002	ses-00001	SNS_EH_002	n/a	n/a	n/a
-sub-00003	ses-00001	SNS_HJ_003	n/a	n/a	n/a
 sub-00004	ses-00001	SNS_AS_004	n/a	n/a	n/a
 sub-00005	ses-00001	SNS_MS_005	n/a	n/a	n/a
 sub-00006	ses-00001	SNS_YB_006	n/a	n/a	n/a
@@ -15,18 +13,15 @@ sub-00013	ses-00001	SNS_MB_013	n/a	n/a	n/a
 sub-00014	ses-00001	SNS_NR_014	n/a	n/a	n/a
 sub-00015	ses-00001	SNS_AM_015	n/a	n/a	n/a
 sub-00016	ses-00001	SNS_RO_016	n/a	n/a	n/a
-sub-00017	ses-00001	SNS_SS_017	n/a	n/a	n/a
 sub-00018	ses-00001	SNS_SJD_018	n/a	n/a	n/a
 sub-00019	ses-00001	SNS_IA_019	n/a	n/a	n/a
 sub-00020	ses-00001	SNS_JK_020	n/a	n/a	n/a
-sub-00021	ses-00001	SNS_NF_021	n/a	n/a	n/a
 sub-00022	ses-00001	SNS_ES_022	n/a	n/a	n/a
 sub-00023	ses-00001	SNS_FS_023	n/a	n/a	n/a
 sub-00024	ses-00001	SNS_DG_024	n/a	n/a	n/a
 sub-00025	ses-00001	SNS_LS_025	n/a	n/a	n/a
 sub-00026	ses-00001	SNS_PS_026	n/a	n/a	n/a
 sub-00027	ses-00001	SNS_FR_27	n/a	n/a	n/a
-sub-00028	ses-00001	SNS_MN_28	n/a	n/a	n/a
 sub-00029	ses-00001	SNS_SA_029	n/a	n/a	n/a
 sub-00030	ses-00001	SNS_AS_030	n/a	n/a	n/a
 sub-00031	ses-00001	SNS_MJ_031	n/a	n/a	n/a
