@@ -14,6 +14,8 @@ Preprint: https://www.biorxiv.org/content/10.64898/2026.03.28.715037v1.full
 Participants completed a value and confidence rating task while undergoing fMRI scanning.
 The experiment examined whether the brain employs a probabilistic population code to represent value and value uncertainty. The study focuses on the ventromedial prefrontal cortex representations of value and their influence on preference instability, choice stochasticity, and confidence .
 
+The Experiment1 dataset is available at https://openneuro.org/datasets/ds008821.
+
 ## Dataset Contents
 - **Bold fMRI data**: Functional brain imaging during the value rating task
 - **Anatomical data**: High-resolution structural MRI for each participant
