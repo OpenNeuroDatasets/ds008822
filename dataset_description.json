@@ -1,16 +1,17 @@
 {
     "Name": "Value_pRF Experiment2",
     "BIDSVersion": "1.2.0",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-	"Raphaël Le Bouc", 
-	"Gilles de Hollander", "Marcus Grueschow", 
-	"Rafael Polania", 
-	"Christian C. Ruff"
+        "Raphaël Le Bouc",
+        "Gilles de Hollander",
+        "Marcus Grueschow",
+        "Rafael Polania",
+        "Christian C. Ruff"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [],
     "ReferencesAndLinks": [],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds008822.v1.0.0"
 }
