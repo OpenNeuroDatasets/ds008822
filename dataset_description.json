@@ -1,8 +1,13 @@
 {
-    "Name": "dataset2",
+    "Name": "Value_pRF Experiment2",
     "BIDSVersion": "1.2.0",
     "License": "",
-    "Authors": [Raphaël Le Bouc, Gilles de Hollander, Marcus Grueschow, Rafael Polania, Christian C. Ruff],
+    "Authors": [
+	"Raphaël Le Bouc", 
+	"Gilles de Hollander", "Marcus Grueschow", 
+	"Rafael Polania", 
+	"Christian C. Ruff"
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [],
