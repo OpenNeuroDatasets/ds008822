@@ -2,7 +2,7 @@
     "Name": "dataset2",
     "BIDSVersion": "1.2.0",
     "License": "",
-    "Authors": [],
+    "Authors": [Raphaël Le Bouc, Gilles de Hollander, Marcus Grueschow, Rafael Polania, Christian C. Ruff],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [],
